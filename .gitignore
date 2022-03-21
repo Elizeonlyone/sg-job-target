@@ -1,0 +1,8 @@
+/target/
+/.allure/
+/.idea/
+/_idea/
+/_idea/workspace.xml
+/allure-results/
+
+sg-job-target.imlgit remote add origin https://github.com/Elizeonlyone/sg-job-target.git
